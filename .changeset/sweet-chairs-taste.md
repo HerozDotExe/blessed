@@ -1,0 +1,5 @@
+---
+"blessed": patch
+---
+
+releasey!
