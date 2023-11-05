@@ -1,5 +1,11 @@
 # Blessed v0.1.0 - new terminal goodies for node.js
 
+## 0.2.85
+
+### Patch Changes
+
+- 4d86f1f: types
+
 ## 0.2.84
 
 ### Patch Changes
