@@ -1,5 +1,11 @@
 # Blessed v0.1.0 - new terminal goodies for node.js
 
+## 0.2.84
+
+### Patch Changes
+
+- c0425a1: added term.js as dependency
+
 ## 0.2.83
 
 ### Patch Changes
