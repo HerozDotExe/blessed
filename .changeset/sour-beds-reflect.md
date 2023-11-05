@@ -2,4 +2,4 @@
 "@subject026/blessed": patch
 ---
 
-added workflow
+reset changesets due to new pkg name
