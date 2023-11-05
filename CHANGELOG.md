@@ -1,5 +1,11 @@
 # Blessed v0.1.0 - new terminal goodies for node.js
 
+## 0.2.83
+
+### Patch Changes
+
+- 00e41b5: fix publish action
+
 ## 0.2.82
 
 ### Patch Changes
