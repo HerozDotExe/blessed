@@ -2,7 +2,7 @@
   "name": "@subject026/blessed",
   "description": "Clone with node-pty.",
   "author": "Lewis Andy?",
-  "version": "0.2.83",
+  "version": "0.2.84",
   "license": "MIT",
   "main": "./lib/blessed.js",
   "bin": "./bin/tput.js",
