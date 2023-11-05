@@ -6,6 +6,7 @@
   "license": "MIT",
   "main": "./lib/blessed.js",
   "bin": "./bin/tput.js",
+  "types": "./types.d.ts",
   "preferGlobal": false,
   "repository": "git://github.com/subject026/blessed.git",
   "homepage": "https://github.com/subject026/blessed",
@@ -40,6 +41,7 @@
   },
   "dependencies": {
     "@changesets/cli": "^2.26.2",
+    "@types/blessed": "^0.1.24",
     "node-pty": "^1.0.0",
     "term.js": "^0.0.7"
   }
